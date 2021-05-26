@@ -1,5 +1,3 @@
-![2021-05-24 18-22-03](https://user-images.githubusercontent.com/8351520/119691403-d5472900-be4a-11eb-9a21-48f82ccc02a1.gif)
-![2021-05-24 18-22-03](https://user-images.githubusercontent.com/8351520/119691403-d5472900-be4a-11eb-9a21-48f82ccc02a1.gif)
 # FirstFrogShooter
 
 **FirstFrogShooter** is a personal project made as an assesment for my VideoGame development Master with CICE.
@@ -11,23 +9,25 @@ The game count with various mechanics such as basic movement and jump,tonge grap
 All the assets used are handmade or from the Unity asset store. 
 Most of the sound are handmade.
 
-Animations
+##### Animations and tonge
 
-![2021-05-24 18-22-03](https://user-images.githubusercontent.com/8351520/119688092-fa866800-be47-11eb-9495-1eba2b549776.gif)
-![2021-05-24 18-22-03](https://user-images.githubusercontent.com/8351520/119687228-51d80880-be47-11eb-8b29-887b41568028.gif)
+![2021-05-24 18-22-03](https://user-images.githubusercontent.com/8351520/119691906-41299180-be4b-11eb-98cb-ea25c392be77.gif)
+![2021-05-24 18-22-03](https://user-images.githubusercontent.com/8351520/119692045-5dc5c980-be4b-11eb-8252-33739f95302d.gif)
 
-Following enemies
+##### Following enemies
 
-![2021-05-24 18-22-03](https://user-images.githubusercontent.com/8351520/119687442-82b83d80-be47-11eb-91d1-bbfb3cdf7420.gif)
-![2021-05-24 18-22-03](https://user-images.githubusercontent.com/8351520/119689144-e55e0900-be48-11eb-80f2-576a42cb5a1e.gif)
+![2021-05-24 18-22-03](https://user-images.githubusercontent.com/8351520/119692293-9665a300-be4b-11eb-813f-8ba2874161b7.gif)
+![2021-05-24 18-22-03](https://user-images.githubusercontent.com/8351520/119692859-0ecc6400-be4c-11eb-9cdd-917a8258e6e7.gif)
 
-Tower enemy 
+##### Tower-like enemy 
 
-![2021-05-24 18-22-03](https://user-images.githubusercontent.com/8351520/119687722-b4c99f80-be47-11eb-9578-771c01fd4453.gif)
-![2021-05-24 18-22-03](https://user-images.githubusercontent.com/8351520/119686009-31f41500-be46-11eb-9518-e404e5daaaea.gif)
+![2021-05-24 18-22-03](https://user-images.githubusercontent.com/8351520/119692463-b9905280-be4b-11eb-8e44-b4fd65607726.gif)
+![2021-05-24 18-22-03](https://user-images.githubusercontent.com/8351520/119692636-daf13e80-be4b-11eb-84c6-dbb7ff4407d6.gif)
 
-Final Boss 
 
-![2021-05-24 18-22-03](https://user-images.githubusercontent.com/8351520/119689525-37069380-be49-11eb-9f8e-fde1e7978a5e.gif)
-![2021-05-24 18-22-03](https://user-images.githubusercontent.com/8351520/119689977-98c6fd80-be49-11eb-931e-02aca9e0a3e2.gif)
+##### Final Boss 
+
+![2021-05-24 18-22-03](https://user-images.githubusercontent.com/8351520/119693000-2d325f80-be4c-11eb-81a6-89c2424f7d75.gif)
+![2021-05-24 18-22-03](https://user-images.githubusercontent.com/8351520/119691403-d5472900-be4a-11eb-9a21-48f82ccc02a1.gif)
+
 
