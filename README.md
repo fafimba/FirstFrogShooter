@@ -2,7 +2,7 @@
 
 **FirstFrogShooter** is a personal project made as an assesment for my VideoGame development Master with CICE.
 
-The master task consisted in make an FPS game. In this case, we play as frog that has to go upriver while fighting diferent enemies and obstacles.
+The master task consisted on make an FPS game. In this case, we play as frog that has to go upriver while fighting diferent enemies and obstacles.
 
 The game count with various mechanics such as basic movement and jump,tonge grapping, folowwing enemies, tower-like enemies and a final boss with diferent states.
 
