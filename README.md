@@ -1,3 +1,3 @@
 # FirstFrogShooter
 
-![Abeja](demo/abeja.gif)
+![Abeja](demo/abeja_s.gif)
