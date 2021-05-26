@@ -1,13 +1,12 @@
 # FirstFrogShooter
 
-**FirstFrogShooter** is a personal project made as an assesment for my VideoGame development Master with CICE.
+**FirstFrogShooter** is a personal project made as an assesment for my VideoGame development Master's degree with CICE.
 
-The master task consisted on make an FPS game. In this case, we play as frog that has to go upriver while fighting diferent enemies and obstacles.
+The task consisted on a FPS game. In this case, we play as a frog that has to go up river while challenging different enemies and obstacles.
 
-The game count with various mechanics such as basic movement and jump,tonge grapping, folowwing enemies, tower-like enemies and a final boss with diferent states.
+The game includes mechanics such as basic movement and jump, tonge grapping, following enemies, tower-like enemies and a final boss with diferent states.
 
-All the assets used are handmade or from the Unity asset store. 
-Most of the sound are handmade.
+All the assets are self-made or taken from the Unity asset store. Most of the sounds are self-made.
 
 ##### Animations and tonge
 
